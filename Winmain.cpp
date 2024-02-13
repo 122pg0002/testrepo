@@ -1,4 +1,6 @@
 
+#include <windows.h>
+
 
 int WINAPI WinMain(
 	HINSTANCE hInstance,
@@ -6,6 +8,8 @@ int WINAPI WinMain(
 	LPSTR lpCmdLine,
 	int nCmdShow
 ) {
+
+	// Create a window
 
 	return 0;	
 }
